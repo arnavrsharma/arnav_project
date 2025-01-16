@@ -1,0 +1,2 @@
+I have completed 2 Projects which include a customised chatbot which responds to user commands, and an F1 Grand Prix Timings Board.
+I have placed all the necessary files in their respective folders, along with the text documents that need to be accessed. 

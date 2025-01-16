@@ -1,0 +1,18 @@
+keywords:
+coffee: The coffee shop is open from 8 AM to 6 PM.
+library: The library is open from 9 AM to 9 PM.
+course: Course details are available on the university website.
+sports: The sports center is open from 7 AM to 10 PM.
+time: University opens from 6:30 AM to 5:30 PM.
+hello: hi there how can i help you!
+student: student details are provided in your respected VLE
+name: I am Arnav's chatbot, but what's your name?
+age: Hmm, my age can't be expressed in numbers;)
+love: I love me too!
+hi: hey! how are you?
+
+random_responses:
+Could you please clarify?
+That's interesting! Tell me more.
+I don't have information on that.
+Hmm, I'm not sure about that.
